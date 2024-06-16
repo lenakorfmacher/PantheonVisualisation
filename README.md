@@ -11,11 +11,9 @@ By including this project in my portfolio, I aim to demonstrate my skills data v
 
 ## Features
 
-- Fetches quiz questions from the QuizAPI.
-- Displays multiple-choice questions.
-- Allows users to select answers and submit.
-- Shows the score and correct answers at the end of the quiz.
-- Responsive design using Bootstrap.
+- Shows different views and dashboards to explore biographical data.
+- Allows users to switch between views and dashboards.
+- Allows users to apply different filter options for a fine-grained exploration.
 
 ## Usage
 
