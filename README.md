@@ -1,4 +1,4 @@
-# Famous People Visualisation
+# Pantheon Visualisation
 
 Interactive Tableau Visualisation that allows for detailed exploration of famous people across time and domains.
 
